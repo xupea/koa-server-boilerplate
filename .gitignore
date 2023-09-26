@@ -1,0 +1,21 @@
+# Temp output
+dist
+
+# Static files
+public
+
+# Dependencies
+node_modules
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
